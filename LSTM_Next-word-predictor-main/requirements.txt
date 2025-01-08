@@ -1,0 +1,8 @@
+Flask
+tensorflow
+gdown
+numpy
+transformers
+datasets
+torch
+gunicorn
